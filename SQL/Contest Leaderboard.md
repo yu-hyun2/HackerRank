@@ -1,4 +1,4 @@
-o# Contest Leaderboard
+# Contest Leaderboard
 
 [문제 링크](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
 
